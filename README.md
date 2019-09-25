@@ -14,12 +14,6 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 3. With Custom Deep Convololutional Neural Network attained testing accuracy 89.53% and loss 0.41.
 </pre>
 
-#### Code
-<pre>
-GitHub Link      : <a href=https://github.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Detection of Pneumonia from Chest X-Ray Images(GitHub)</a>
-GitLab Link      : <a href=https://gitlab.com/anjanatiha/Detection-of-Pneumonia-from-Chest-X-Ray-Images>Detection of Pneumonia from Chest X-Ray Images(GitLab)</a>
-Portfolio        : <a href=https://anjanatiha.wixsite.com/website>Anjana Tiha's Portfolio</a>
-</pre>
 
 #### Dataset
 <pre>
@@ -80,11 +74,4 @@ Recall (Pneumonia)      : 95.48% (For positive class)
 Languages               : Python
 Tools/IDE               : Anaconda
 Libraries               : Keras, TensorFlow, Inception, ImageNet
-</pre>
-
-#### Dates
-<pre>
-Duration                : October 2018 - Current
-Current Version         : v1.0.0.3
-Last Update             : 12.16.2018
 </pre>
