@@ -14,6 +14,11 @@ Application        : Image Recognition, Image Classification, Medical Imaging
 3. With Custom Deep Convololutional Neural Network attained testing accuracy 89.53% and loss 0.41.
 </pre>
 
+#### Steps to run it
+
+1. pip install -r requirements.txt in the root folder
+2. cd to code and run "jupyter notebook" and click the file to open on the browser
+
 
 #### Dataset
 <pre>
